@@ -1,0 +1,12 @@
+{
+  "name": "jukta-twin",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "underscore": "^1.9.1",
+    "underscore-express": "^1.0.1",
+    "uuid": "^3.3.2"
+  }
+}
