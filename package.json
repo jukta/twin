@@ -1,7 +1,6 @@
 {
   "name": "jukta-twin",
   "version": "0.0.0",
-  "private": true,
   "dependencies": {
     "express": "^4.16.4",
     "express-session": "^1.15.6",
