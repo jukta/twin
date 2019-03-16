@@ -1,9 +1,19 @@
 {
   "name": "jukta-twin",
   "version": "0.0.0",
+  "license": "MIT",
   "dependencies": {
+    "morgan": "~1.9.0",
+    "config": "^3.0.1",
+    "http-errors": "~1.6.2",
     "express": "^4.16.4",
+    "cookie-parser": "~1.4.3",
     "express-session": "^1.15.6",
+    "moment": "^2.24.0",
+    "mongodb": "^3.1.13",
+    "node-cache": "^4.2.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
     "underscore": "^1.9.1",
     "underscore-express": "^1.0.1",
     "uuid": "^3.3.2"

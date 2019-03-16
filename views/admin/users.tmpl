@@ -1,0 +1,14 @@
+<table>
+    <tr>
+        <th>Login</th>
+        <th>Date</th>
+        <th></th>
+    </tr>
+    <% _.each(userList, function(p) { %>
+    <tr>
+        <td><a href="<%= p.uri %>"><%= p.username %></a></td>
+        <td><%= moment(p.createDate).format("DD-MM-YYYY") %></td>
+        <td><a href="<%= p.uri + '?action=block' %>">Block</a></td>
+    </tr>
+    <% })%>
+</table>
