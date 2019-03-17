@@ -1,11 +1,12 @@
 {
   "name": "jukta-twin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "dependencies": {
     "morgan": "~1.9.0",
     "config": "^3.0.1",
     "http-errors": "~1.6.2",
+    "eval": "^0.1.3",
     "express": "^4.16.4",
     "cookie-parser": "~1.4.3",
     "express-session": "^1.15.6",
