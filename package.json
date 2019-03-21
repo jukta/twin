@@ -1,6 +1,6 @@
 {
   "name": "jukta-twin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "dependencies": {
     "config": "^3.0.1",
